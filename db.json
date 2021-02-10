@@ -1,0 +1,79 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "nome": "Bolo de Chocolate",
+            "preco": 30.39,
+            "ativo": true
+        },
+        {
+            "id": 2,
+            "nome": "Red Velvet",
+            "preco": 50.91,
+            "ativo": true
+        },
+        {
+            "id": 3,
+            "nome": "Brownie de Avelã",
+            "preco": 64.98,
+            "ativo": false
+        },
+        {
+            "id": 4,
+            "nome": "Chocolate",
+            "preco": 16.00,
+            "ativo": false
+        },
+		{
+            "id": 5,
+            "nome": "Bolo de Cenoura",
+            "preco": 30.32,
+            "ativo": true
+        },
+        {
+            "id": 6,
+            "nome": "Banoffe",
+            "preco": 70.91,
+            "ativo": true
+        }
+    ],
+    "insumos": [
+        {
+            "id": 1,
+            "nome": "Açucar",
+            "preco": 15.00,
+            "ativo": true
+        },
+        {
+            "id": 2,
+            "nome": "Manteiga",
+            "preco": 3.00,
+            "ativo": true
+        },
+        {
+            "id": 3,
+            "nome": "Doce de Leite",
+            "preco": 17.00,
+            "ativo": false
+        },
+        {
+            "id": 4,
+            "nome": "Chocolate",
+            "preco": 16.00,
+            "ativo": false
+        },
+        {
+            "id": 5,
+            "nome": "Banana",
+            "preco": 7.00,
+            "ativo": true
+        },
+		,
+        {
+            "id": 7,
+            "nome": "Leite",
+            "preco": 5.00,
+            "ativo": true
+        }
+    ]
+}
